@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "user": "usuario1",
+        "datetime": "2024-01-27T12:30:00",
+        "word": "elefante",
+        "guessed": true
+    },
+    {
+        "id": 2,
+        "user": "usuario2",
+        "datetime": "2024-01-27T13:45:00",
+        "word": "computadora",
+        "guessed": false
+    },
+    {
+        "id": 3,
+        "user": "usuario3",
+        "datetime": "2024-01-27T14:15:00",
+        "word": "montaña",
+        "guessed": true
+    },
+    {
+        "id": 4,
+        "user": "usuario4",
+        "datetime": "2024-01-27T15:00:00",
+        "word": "océano",
+        "guessed": false
+    },
+    {
+        "id": 5,
+        "user": "usuario5",
+        "datetime": "2024-01-27T16:20:00",
+        "word": "bicicleta",
+        "guessed": true
+    },
+    {
+        "id": 6,
+        "user": "usuario6",
+        "datetime": "2024-01-27T17:10:00",
+        "word": "teléfono",
+        "guessed": false
+    },
+    {
+        "id": 7,
+        "user": "usuario7",
+        "datetime": "2024-01-27T18:45:00",
+        "word": "jardín",
+        "guessed": true
+    },
+    {
+        "id": 8,
+        "user": "usuario8",
+        "datetime": "2024-01-27T19:30:00",
+        "word": "avión",
+        "guessed": false
+    },
+    {
+        "id": 9,
+        "user": "usuario9",
+        "datetime": "2024-01-27T20:15:00",
+        "word": "libro",
+        "guessed": true
+    },
+    {
+        "id": 10,
+        "user": "usuario10",
+        "datetime": "2024-01-27T21:00:00",
+        "word": "sol",
+        "guessed": false
+    }
+]
